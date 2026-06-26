@@ -12,3 +12,11 @@ console.log('petit fix');
 console.log('petit fix2');
 console.log('add user');
 console.log('add user2');
+
+
+
+console.log('Ajout1');
+
+function mySum(a, b) {
+    return a + b;
+};
