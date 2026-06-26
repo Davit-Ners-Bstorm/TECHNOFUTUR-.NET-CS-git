@@ -11,3 +11,4 @@ console.log('Fix erreur GROSSE ERREURE');
 console.log('petit fix');
 console.log('petit fix2');
 console.log('add user');
+console.log('add user2');
