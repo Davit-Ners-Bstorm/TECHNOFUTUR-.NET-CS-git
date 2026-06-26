@@ -10,3 +10,4 @@ console.log('Fix erreur2');
 console.log('Fix erreur GROSSE ERREURE');
 console.log('petit fix');
 console.log('petit fix2');
+console.log('add user');
