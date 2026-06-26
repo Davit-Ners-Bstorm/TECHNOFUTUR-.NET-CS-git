@@ -6,3 +6,4 @@ console.log('Modif dev');
 console.log('Auth p3');
 
 console.log('Fix erreur1');
+console.log('Fix erreur2');
